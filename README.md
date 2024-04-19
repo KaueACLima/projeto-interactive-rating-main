@@ -36,9 +36,9 @@ O DevLinks é um agregador de links para usar como cartão de visitas online.
   <img alt="projeto nteractive Rating Component Main" src="https://github.com/KaueACLima/projeto-discover-dev-links/assets/56000639/af2f83b9-6844-44db-837b-3558239457ab" width="100%">
 </p>
 
-- [Acesse o projeto finalizado, online](https://github.com/KaueACLima/projeto-discover-dev-links)
+- [Acesse o projeto finalizado, online](https://kaueaclima.github.io/projeto-interactive-rating-main/)
 
-- [Acesse o portifólio finalizado](https://github.com/KaueACLima/projeto-discover-dev-links)
+- [Acesse o portifólio finalizado](https://kaueaclima.github.io/projeto-interactive-rating-main/)
 
 ## :memo: Licença
 
